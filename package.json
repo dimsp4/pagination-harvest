@@ -1,7 +1,7 @@
 {
   "name": "pagination-harvest",
   "type": "module",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A blazing fast, parallelized, and small data harvester for paginated APIs. Supports Axios and custom fetchers, progress callbacks, and automatic retry.",
   "source": "./src/paginationHarvest.ts",   
   "main": "./dist/paginationHarvest.cjs",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname/pagination-harvest.git"
+    "url": "https://github.com/dimsp4/pagination-harvest.git"
   },
   "keywords": [
     "pagination",
