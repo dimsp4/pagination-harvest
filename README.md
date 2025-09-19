@@ -1,4 +1,8 @@
 # pagination-harvest
+[![npm version](https://img.shields.io/npm/v/pagination-harvest.svg?style=flat-square)](https://www.npmjs.com/package/pagination-harvest)
+
+> **NPM:** [pagination-harvest](https://www.npmjs.com/package/pagination-harvest)  
+> _A blazing fast, parallelized, and small data harvester for paginated APIs. Supports Axios and custom fetchers, progress callbacks, and automatic retry._
 
 A blazing fast, parallelized data harvester for paginated APIs.  
 **pagination-harvest** helps you gather all data from APIs that return paginated results, with automatic parallel fetching, retries, and progress callbacks.  
